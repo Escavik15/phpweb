@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Raleway";
+    font-weight: 700;
+    font-size: 1.05rem;
+}
+
+.main{
+    width: 50%;
+    height: 100vh;
+}
+.formcontainer{
+    height: 50%;
+}
+
+.nav-link:hover{
+   color: #82E0AA;
+}
+
+.cardsContainer{
+    width: 100%;
+}
